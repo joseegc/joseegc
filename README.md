@@ -1,4 +1,5 @@
 ### Hi There! I am José
+<hr>
 
 - Estudando em Senac Nações Unidas
 - Tecnólogo em Análise e Desenvolvimento de Sistemas
