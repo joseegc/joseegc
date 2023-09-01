@@ -3,7 +3,7 @@
 
 - Estudando em Senac Nações Unidas
 - Tecnólogo em Análise e Desenvolvimento de Sistemas
-  (conclusão em Agosto/2026)
+  (conclusão em Junho/2025)
    
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
