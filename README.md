@@ -1,7 +1,7 @@
 ### Hi There! I am José
 <hr>
 
-- Estudando em Senac Nações Unidas
+- Estudando em Centro Universitário Senac Santo Amaro
 - Tecnólogo em Análise e Desenvolvimento de Sistemas
   (conclusão em Junho/2025)
    
