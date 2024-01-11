@@ -1,4 +1,4 @@
-# Sobre mim :
+# Sobre mim:
 Estudando em Centro Universitário Senac
  
 Tecnólogo em Análise e Desenvolvimento de Sistemas (Conclusão em Junho/2025)
@@ -7,7 +7,7 @@ Gosto de tecnologias, música e conhecimentos gerais
 
  
 
-## 🌐Contato
+# 🌐Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-elias-gomes-camargo-38b966215)
 
  
