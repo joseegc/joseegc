@@ -3,6 +3,8 @@ Estudando em Centro Universitário Senac
  
 Tecnólogo em Análise e Desenvolvimento de Sistemas (Conclusão em Junho/2025)
 
+Desenvolvedor iOS na Apple Developer Academy Senac 
+
 Gosto de tecnologias, música e conhecimentos gerais
 
  
