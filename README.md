@@ -8,7 +8,7 @@ Também busco atuar como um profissional multidisciplinar, integrando diferentes
  
 
 # 🌐Contato
-[![LinkedIn](www.linkedin.com/in/elias-camargo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/elias-camargo)
 
  
 
