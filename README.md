@@ -1,25 +1,76 @@
-# ❓Sobre mim:
-Oi! Sou o José Elias, uma pessoa tranquila, de bom humor e aberta ao novo! Gosto de trabalhar em projetos que tenham um propósito com que possa me identificar e tragam impacto positivo para o dia das pessoas. Acredito no poder da colaboração e procuro sempre contribuir para um ambiente de equipe respeitoso, autêntico e criativo!
+<h1 align="center">Oi, eu sou o José Elias!</h1>
 
-Desde cedo tive interesse por tecnologias, especialmente a programação, que tenho tido a oportunidade de desenvolver durante minha graduação em Análise e Desenvolvimento de Sistemas e também na Apple Developer Academy Senac, onde tive a oportunidade de aprender sobre o desenvolvimento de aplicações para iOS e atuar como embaixador representando nosso polo em encontros com Academies de todo o mundo!
+###
 
-Também busco atuar como um profissional multidisciplinar, integrando diferentes áreas do conhecimento para potencializar o impacto dos projetos em que me envolvo. Ao longo da minha trajetória, desenvolvi experiência em desenvolvimento backend com Java e MySQL, desenvolvimento mobile com Swift e React Native, além de atuar com testes de software e garantia de qualidade. Tenho vivência em liderança de equipes, aplicando princípios de colaboração e organização para alcançar melhores resultados, e também em design de experiência do usuário e interfaces, utilizando abordagens como Design Thinking, UCD e ferramentas como Figma. Complementando essa atuação, trabalho com gerenciamento de projetos e metodologias ágeis, utilizando ferramentas como Azure DevOps, Jira e práticas de SCRUM.
+<p align="left">Oi! Sou o José Elias, uma pessoa tranquila, de bom humor e aberta ao novo! Gosto de trabalhar em projetos que tenham um propósito com que possa me identificar e tragam impacto positivo para o dia das pessoas. Acredito no poder da colaboração e procuro sempre contribuir para um ambiente de equipe respeitoso, autêntico e criativo!<br><br>Desde cedo tive interesse por tecnologias, especialmente a programação, que tenho tido a oportunidade de desenvolver durante minha graduação em Análise e Desenvolvimento de Sistemas e também na Apple Developer Academy Senac, onde tive a oportunidade de aprender sobre o desenvolvimento de aplicações para iOS e atuar como embaixador representando nosso polo em encontros com Academies de todo o mundo!</p>
 
- 
+###
 
-# 🌐Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/elias-camargo)
+<h2 align="left">Vamos conversar!</h2>
 
- 
+###
 
-# 💻Tecnologias
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joseegc&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<br>
-![](https://github-readme-stats.vercel.app/api?username=joseegc&theme=omni&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joseegc&theme=omni&hide_border=true)<br/>
- 
+<div align="left">
+  <a href="www.linkedin.com/in/elias-camargo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:joseelias5589@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=joseegc&icon=5&color=10)](https://visitcount.itsvg.in)
+###
+
+<h2 align="left">Experiências</h2>
+
+###
+
+<p align="left">Também busco atuar como um profissional multidisciplinar, integrando diferentes áreas do conhecimento para potencializar o impacto dos projetos em que me envolvo. Ao longo da minha trajetória, desenvolvi experiência em múltiplos conhecimentos:</p>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/joseegc/joseegc/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joseegc&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
