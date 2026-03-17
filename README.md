@@ -6,7 +6,7 @@
 
 <img 
 src="https://media1.tenor.com/m/IVh7YxGaB_4AAAAC/nerd-emoji.gif"
-height="260"
+height="240"
 align="right"
 style="margin-left:100px; margin-top:-40px;" 
 />
