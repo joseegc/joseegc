@@ -6,9 +6,9 @@
 
 <img 
 src="https://media1.tenor.com/m/IVh7YxGaB_4AAAAC/nerd-emoji.gif"
-height="260"
+height="180"
 align="right"
-style="margin-left:60px; margin-top:-40px;" 
+style="margin-left:80px; margin-top:-40px;" 
 />
 
 Oi! Sou o José Elias, uma pessoa tranquila, de bom humor e aberta ao novo! Gosto de trabalhar em projetos que tenham um propósito com que possa me identificar e tragam impacto positivo para o dia das pessoas. Acredito no poder da colaboração e procuro sempre contribuir para um ambiente de equipe respeitoso, autêntico e criativo!<br><br>Desde cedo tive interesse por tecnologias, especialmente a programação, que <br>tenho tido a oportunidade de desenvolver durante minha graduação em Análise e Desenvolvimento de Sistemas e também na Apple Developer Academy Senac, onde tive a oportunidade de aprender sobre o desenvolvimento de aplicações para iOS e atuar como embaixador representando nosso polo em encontros com Academies de todo o mundo!</p>
