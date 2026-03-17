@@ -76,11 +76,12 @@ Oi! Sou o José Elias, uma pessoa tranquila, de bom humor e aberta ao novo! Gost
 
 ###
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/joseegc/joseegc/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=joseegc&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
