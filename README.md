@@ -36,7 +36,7 @@ Oi! Sou o José Elias, uma pessoa tranquila, de bom humor e aberta ao novo! Gost
 
 ###
 
-<p align="left">Também busco atuar como um profissional multidisciplinar, integrando diferentes áreas do conhecimento para potencializar o impacto dos projetos em que me envolvo. Ao longo da minha trajetória, desenvolvi experiência em múltiplos conhecimentos:</p>
+<p align="left">Também busco atuar como um profissional multidisciplinar, integrando diferentes áreas do conhecimento para potencializar o impacto dos projetos em que me envolvo. Ao longo da minha trajetória, desenvolvi experiência em múltiplas áreas:</p>
 
 ###
 
