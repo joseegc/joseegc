@@ -78,7 +78,14 @@ Oi! Sou o José Elias, uma pessoa tranquila, de bom humor e aberta ao novo! Gost
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/joseegc/joseegc/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joseegc/joseegc/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joseegc/joseegc/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joseegc/joseegc/pacman-output/breakout-contribution-graph.svg">
+</picture>
 
 ###
 
